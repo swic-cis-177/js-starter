@@ -1,4 +1,4 @@
-# Front End Starter
+# Full-Stack JS Student Starter
 
 ## Overview
 

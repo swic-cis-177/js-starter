@@ -1,19 +1,11 @@
 {
   "env": {
     "browser": true,
-    "es6": true,
-    "node": false
+    "es2021": true
   },
-  "extends": [
-    "airbnb-base"
-  ],
-  "globals": {
-    "Atomics": "readonly",
-    "SharedArrayBuffer": "readonly"
-  },
+  "extends": "eslint:recommended",
   "parserOptions": {
-    "ecmaVersion": 2018,
-    "sourceType": "module"
+    "ecmaVersion": 12
   },
   "rules": {
     "array-callback-return": "warn",

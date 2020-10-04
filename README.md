@@ -4,6 +4,8 @@ Use of this starter template assumes that you have a 'complete dev environment' 
 
 ---
 
+After `clon`ing with 'HTTPS', `cd` into the repo directory.
+
 As always...as always, kindly do, `npm i` **(`npm install` on 'GitBash')** to get the necessary modules installed from the list of `devDependencies` and `depnedencies` in 'package.json.' **Be sure that you have `cd`ed into the 'repo directory' first!** Otherwise, the command will not work as there is no 'package.json.'
 
 This project is well-suited for newer JS students. It includes linting and several useful VS Code settings and extensions to assist with 'coding tasks.' 

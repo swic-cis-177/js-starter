@@ -6,10 +6,6 @@
 	"rules": {
 		declaration-colon-newline-after: null,
 		indentation: null,
-		"order/order": [
-			"custom-properties",
-			"declarations"
-		],
 		"order/properties-alphabetical-order": true
 	}
 }

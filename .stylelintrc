@@ -5,7 +5,7 @@
 	],
 	"rules": {
 		"declaration-colon-newline-after": null,
-		indentation: null,
+		"indentation": 2,
 		"order/properties-alphabetical-order": true
 	}
 }
